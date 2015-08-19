@@ -1,2 +1,2 @@
 # simple_rackApp
-A simple rackApp.
+A simple rackApp
