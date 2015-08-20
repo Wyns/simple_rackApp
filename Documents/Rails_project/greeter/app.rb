@@ -7,6 +7,7 @@ Cuba.define do
     <html>
         <body>
           <h1>Kenya is my homeland country>
+          <p>central is my county</p>
         </body>
       </html>
       ")
