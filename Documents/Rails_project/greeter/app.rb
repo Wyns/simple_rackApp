@@ -1,10 +1,8 @@
 
-# my_rack_app.rb
+require "cuba"
 
-require 'rack'
-
-app = Proc.new do |env|
-    ['200', {'Content-Type' => 'text/html'}, ['A barebones rack app.']]
+Cuba.define do
+  on root do
+    res.write("Kenya is the most glowing country in Africa!")
+  end
 end
-
-Rack::Handler::WEBrick.run app
