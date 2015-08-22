@@ -1,3 +1,3 @@
 # simple_rackApp
-getting started with gems
+getting started with gemm.
 
