@@ -1,2 +1,3 @@
 # simple_rackApp
-A simple rackApp
+getting started with gems
+
